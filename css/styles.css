@@ -1,0 +1,15 @@
+.projects-grid{
+    display: flex;
+    background-color: brown;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+    gap: 10px;
+    background-color: blue;
+}
+.project-tile{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    overflow: hidde;
+}
